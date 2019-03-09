@@ -1,2 +1,2 @@
-# multi-tenant-saas
-マルチテナントSaaS登録
+# Readme
+ここでは、B2B向け
